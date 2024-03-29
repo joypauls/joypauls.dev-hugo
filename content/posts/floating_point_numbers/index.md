@@ -5,6 +5,7 @@ date: 2024-03-24
 description: A brief guide to setup KaTeX
 math: true
 ShowBreadCrumbs: true
+draft: true
 ---
 
 
