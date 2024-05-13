@@ -48,8 +48,17 @@ Let’s flesh out the image generation example a little more. And instead of sta
 We are going to add another model to the mix, but this one has a simpler job. We want it to learn to classify an image as one of two classes, real or fake. To do this we need to gather some extra training data in the form of real images. Then we will feed both real samples and fake sample produced by the Generator, and train the two models alongside each other. The Generator provides the Discriminator with training data, and the Discriminator forms a feedback loop to tell the Generator if its output is realistic or not.
 
 
+When the models have been trained, we usually are just interested in the Generator because our original goal was to produce realistic looking images and that what it does! Although we likely won’t use the Discriminator after training is complete, it play an incredibly important role in the training process. Although this is only the most basic setup for a GAN, much of the research surrounding them has been stabilizing the training process and extending them to generate different kinds of outputs (they are not just for images!), so the core of the problem remains an essential piece.
 
-# Beyond Basics
+How Good are They?
+
+References
+
+- Original Gan paper
+
+
+
+# Out in the Wild
 
 
 ## The Bad and the Ugly

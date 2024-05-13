@@ -59,7 +59,7 @@ good to remember from here on that we are in digital wonderland.
 
 ## The Reals ($$\mathbb{R}$$)
 
-We have much worse problems when we get to $$\mathbb{R}$$. Yes, we will always be constrained to finite methods of 
+We have much worse problems when we get to the real numbers, or $\mathbb{R}$. Yes, we will always be constrained to finite methods of 
 representation, but now we need to worry about the gaps *between* numbers, and we don't even need to think about 
 binary to see this clearly.
 

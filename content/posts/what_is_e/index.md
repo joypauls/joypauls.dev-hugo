@@ -8,7 +8,7 @@ ShowBreadCrumbs: true
 draft: true
 ---
 
-> *The exponential function ... is the instrument used, in one form or another, to describe the behavior of growing things.*[^1]
+> *The exponential function ... is the instrument used, in one form or another, to describe the behavior of growing things.*
 
 ## Before We Dive In
 
