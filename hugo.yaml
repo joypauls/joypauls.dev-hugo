@@ -82,11 +82,9 @@ params:
     #     url: tags
 
   homeInfoParams:
-    Title: "🚧 COMING SOON 🚧"
+    Title: "Welcome! I'm Joy "
     Content: >
-      Hey!
-
-      You've caught me at an awkward time. I'm currently working on something new and exciting... check back soon!
+      Writing educational content about the computational side of photography, vision, and machine learning.
 
 
   socialIcons:
