@@ -1,3 +1,7 @@
 .post-content img {
   max-width: 90%;
 }
+
+.header {
+  border-bottom:1px solid #da8db7;
+}

@@ -25,16 +25,13 @@ Much better! Even with a small adjustment there is more depth to the image. Dark
 
 Returning to the original image, checking the histogram of pixel intensities reveals why it feels flat and dull. Since a color image is more complex to work with, the luminance (footnote) histogram is used here to demonstrate. In a typical 8-bit grayscale image, there are 256 possible values a pixel can take on.
 
-
-
-
+![A grayscale test image](./images/original_histogram.png#center "A grayscale test image")
 
 This explains why we noticed the image had weak shadows and highlights. Most of the pixels have a “medium” brightness level, and so the histogram is crowded near the middle.
 
 The histogram of the contrast-enhanced image has the answer:
 
-
-
+![A grayscale test image](./images/contrast_enhanced_histogram.png#center "A grayscale test image")
 
 Indeed, the contrast-enhanced histogram is *stretched* with values spread toward 0 and toward 255. That is exactly what it means to increase contrast.
 
