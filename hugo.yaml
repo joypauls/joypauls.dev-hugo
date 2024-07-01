@@ -53,7 +53,7 @@ params:
 
   defaultTheme: auto
   # disableThemeToggle: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowReadingTime: false
   # disableSpecial1stPost: true
   displayFullLangName: true
@@ -82,11 +82,9 @@ params:
     #     url: tags
 
   homeInfoParams:
-    Title: "🚧 COMING SOON 🚧"
+    Title: "Welcome! I'm Joy "
     Content: >
-      Hey!
-
-      You've caught me at an awkward time. I'm currently working on something new and exciting... check back soon!
+      Writing educational content explaining the computational side of photography, vision, and machine learning.
 
 
   socialIcons:
@@ -95,7 +93,7 @@ params:
       url: "https://github.com/joypauls"
     - name: LinkedIn
       title: LinkedIn Profile
-      url: "www.linkedin.com/in/joy-paulsen-0bb55419b"
+      url: "https://www.linkedin.com/in/joy-paulsen-0bb55419b"
     - name: Email
       title: Email Address
       url: "mailto:hello@joypauls.dev"
