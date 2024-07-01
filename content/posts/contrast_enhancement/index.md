@@ -2,7 +2,7 @@
 author: Joy Paulsen
 title: Contrast Enhancement
 date: 2024-06-22
-description: A quick, introductory guide to the intuition behind a foundational image enhancement task
+description: A quick guide to the intuition and math behind a foundational image enhancement task
 math: true
 ShowBreadCrumbs: true
 hideSummary: true

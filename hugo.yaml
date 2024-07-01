@@ -53,7 +53,7 @@ params:
 
   defaultTheme: auto
   # disableThemeToggle: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowReadingTime: false
   # disableSpecial1stPost: true
   displayFullLangName: true
@@ -93,7 +93,7 @@ params:
       url: "https://github.com/joypauls"
     - name: LinkedIn
       title: LinkedIn Profile
-      url: "www.linkedin.com/in/joy-paulsen-0bb55419b"
+      url: "https://www.linkedin.com/in/joy-paulsen-0bb55419b"
     - name: Email
       title: Email Address
       url: "mailto:hello@joypauls.dev"
