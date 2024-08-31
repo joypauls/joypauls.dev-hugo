@@ -1,6 +1,6 @@
 ---
 author: Joy Paulsen
-title: Contrast Enhancement
+title: Contrast Enhancement for Beginners
 date: 2024-06-22
 description: A quick guide to the intuition and math behind a foundational image enhancement task
 math: true
@@ -23,7 +23,7 @@ Much better! Even with a small adjustment there is more depth to the image: dark
 
 ## Histogram Stretching
 
-Returning to the original image, we can check the histogram of pixel intensities to reveal why it feels flat and dull. Note that since a color image is more complex to work with, the lightness[^1] histogram is used to illustrate the concept. In a typical 8-bit grayscale image, there are 256 possible values a pixel can take on. The x-axis shows that the darkest possible pixel has a value of 0 and the brightest possible pixel has a value of 255.
+Returning to the original image, we can check the histogram of pixel intensities to reveal why it feels flat and dull. Note that since a color image is more complex to work with, the lightness[^1] histogram is used to illustrate the concept. If you're unfamiliar, think of lightness as a measure of how bright a pixel is, independent of its color. In a typical 8-bit grayscale image, there are 256 possible values a pixel can take on, so the x-axis shows that the darkest possible pixel has a value of 0 and the brightest possible pixel has a value of 255.
 
 ![A grayscale test image](./images/original_histogram.png#center "A grayscale test image")
 
