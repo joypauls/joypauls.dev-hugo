@@ -1,7 +1,17 @@
-.post-content img {
-  max-width: 90%;
-}
+/* Global */
 
 .header {
   border-bottom:1px solid #da8db7;
 }
+
+
+/* Posts */
+
+.post-content img {
+  max-width: 90%;
+}
+
+.post-entry {
+  border: 1px solid #da8db7;
+}
+

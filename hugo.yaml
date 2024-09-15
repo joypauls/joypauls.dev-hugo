@@ -64,6 +64,7 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
+  # hideSummary: false
   # comments: false
   images: ["images/papermod-cover.png"]
   math: true
@@ -82,10 +83,9 @@ params:
     #     url: tags
 
   homeInfoParams:
-    Title: "Welcome! I'm Joy "
+    Title: "Welcome! I'm Joy 👋"
     Content: >
-      Writing educational content explaining the computational side of photography, vision, and machine learning.
-
+      I'm writing educational content at the intersection of my interests in computer vision, image processing, astronomy, and my day job in data science.
 
   socialIcons:
     - name: GitHub
