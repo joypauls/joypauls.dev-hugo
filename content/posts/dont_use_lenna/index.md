@@ -6,7 +6,7 @@ description: Why you should seek alternatives to the perennial image processing 
 math: false
 ShowBreadCrumbs: true
 hideSummary: true
-draft: false
+draft: true
 ---
 
 ## What is the Lenna Image?
