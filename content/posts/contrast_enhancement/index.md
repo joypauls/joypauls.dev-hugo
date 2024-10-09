@@ -40,7 +40,7 @@ Indeed, the contrast-enhanced histogram is _stretched_ with values spread all th
 
 ## Math
 
-There are many different algorithms that exist for modifying the contrast of an image, and some are quite complicated. But what they all have in common is that they all have the same goal we already discovered: stretching and spreading out an image’s histogram. One of the most straightforward approaches is to apply a function to each of the pixels. This is know as a point operation and is one of the simplest image processing techniques.
+There are many different algorithms that exist for modifying the contrast of an image, and some are quite complicated. But what they all have in common is that they all have the same goal we already discovered: stretching and spreading out an image’s histogram. One of the most straightforward approaches is to apply a function to each of the pixels. This is known as a point operation and is one of the simplest image processing techniques.
 
 For a given image $I$, suppose we apply a linear function to each pixel of $I$:
 
@@ -48,7 +48,7 @@ $$
 f(I) = a * I + b
 $$
 
-Because $a > 1$, the image’s histogram will be stretched and we’ll see it’s contrast increase. You can think of this as the difference between pixels being multiplied so that they spread out. Modifying $b$ in the equation will directly add or remove brightness from the image - this is needed to offset the fact that a value of $a$ greater than 1 also increases the total brightness, and that may not be desired.
+Because $a > 1$, the image’s histogram will be stretched and we’ll see its contrast increase. You can think of this as the difference between pixels being multiplied so that they spread out. Modifying $b$ in the equation will directly add or remove brightness from the image - this is needed to offset the fact that a value of $a$ greater than 1 also increases the total brightness, and that may not be desired.
 
 To create the contrast-enhanced image shown in the beginning, the following equation was used:
 

@@ -8,7 +8,6 @@ ShowBreadCrumbs: true
 draft: true
 ---
 
-
 ![A grayscale test image](./images/heron.jpg#center "A grayscale test image")
 
 ![Histogram of the grayscale test image](./images/heron_patch_zoom.jpg#center "Histogram of the grayscale test image")

@@ -85,7 +85,7 @@ params:
   homeInfoParams:
     Title: "Welcome! 👋"
     Content: >
-      I'm writing educational content at the intersection of my interests in computer vision, image processing, astronomy, and my day job in data science.
+      I'm writing educational content at the intersection of my interests in computer vision, signal processing, astronomy, and my day job in data science.
 
   socialIcons:
     - name: GitHub
