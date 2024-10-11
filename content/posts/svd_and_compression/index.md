@@ -9,7 +9,7 @@ tags:
 math: true
 ShowBreadCrumbs: true
 hideSummary: true
-draft: false
+draft: true
 ---
 
 The singular value
